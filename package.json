@@ -1,0 +1,23 @@
+{
+  "name": "lmo",
+  "version": "1.0.0",
+  "description": "for show my name",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "lmo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwinmin-12/textNpm.git"
+  },
+  "keywords": [
+    "lmo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwinmin-12/textNpm/issues"
+  },
+  "homepage": "https://github.com/lwinmin-12/textNpm#readme"
+}
