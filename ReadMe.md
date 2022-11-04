@@ -1,7 +1,7 @@
-#introduction
+# introduction
 show my name
 
-#installation
-npm install lmo
+# installation
+* npm install lmo
 
-import {showMyName} from "./index.js"
+* import {showMyName} from "./index.js"
